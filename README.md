@@ -1,1 +1,2 @@
 # AWS-Projectsandtools-codebase
+Tips 
